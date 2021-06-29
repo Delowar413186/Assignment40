@@ -1,0 +1,38 @@
+@media all and (max-width:992px){
+    .img img {
+        max-width: 100%;
+    }
+    .banner-text {
+        margin-top: -88px;
+    }
+    .About .img {
+        margin-top: 80px;
+    }
+    .member-item {
+        margin-top: 122px;
+    }
+}
+@media all and (max-width:768px){
+    .counter-text {
+        margin-top: 21px;
+    }
+    .title h1 {
+        font-size: 28px;
+    }
+}
+@media all and (max-width:460px){
+    .title p {
+        font-size: 18px;
+    }
+    .title h1 {
+        font-size: 19px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+}
+@media all and (max-width:480px){
+    .footer p {
+        font-size: 12px;
+    }
+}
